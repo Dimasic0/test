@@ -1,6 +1,6 @@
 'use strict';
 
-var TAGS_NUMBER = 8; // колличество меток
+var TAGS_NUMBER = 9; // колличество меток
 var ENTER_KEYCODE = 13; // Unicode клавише ENTER
 var ESC_KEYCODE = 27;
 var MIN_COORDINATE = 130; // минимальная координата
